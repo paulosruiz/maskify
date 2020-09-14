@@ -1,2 +1,3 @@
 module maskify {
+	requires junit;
 }
